@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Contact
 
 - **Author**: Kian Anbarestani
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [kian.anb777@gmail.com](mailto:kian.anb777@gmail.com)
 - **GitHub**: [KianAnbarestani](https://github.com/KianAnbarestani)
 
 Feel free to open an issue if you find a bug or have suggestions for improvements!
