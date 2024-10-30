@@ -54,4 +54,3 @@ async def create_address(address: Address,
     db.add(user_model)
     db.commit()
 
-
