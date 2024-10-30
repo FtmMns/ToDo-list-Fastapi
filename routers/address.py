@@ -15,7 +15,6 @@ router = APIRouter(
     responses={404: {"description": "Not found"}}
 )
 
-
 def get_db():
     try:
         db = SessionLocal()
