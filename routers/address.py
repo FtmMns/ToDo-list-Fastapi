@@ -30,7 +30,6 @@ class Address(BaseModel):
     country: str
     postalcode: str
 
-
 @router.post("/")
 async def create_address(address: Address,
                          user: dict = Depends(get_current_user),
