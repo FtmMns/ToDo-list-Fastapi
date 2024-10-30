@@ -22,7 +22,6 @@ def get_db():
     finally:
         db.close()
 
-
 class Address(BaseModel):
     address1: str
     address2: Optional[str]
